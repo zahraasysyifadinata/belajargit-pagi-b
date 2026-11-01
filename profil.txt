@@ -5,6 +5,11 @@ dan membantu mahasiswa mengembangkan pengetahuan serta keterampilan.
 
 
 Visi
-
 Menjadi kampus unggul yang menghasilkan lulusan berkualitas, 
 kreatif, dan mampu mengikuti perkembangan teknologi.
+
+
+Misi
+1. Menyelenggarakan pendidikan yang berkualitas.
+2. Mengembangkan kreativitas dan keterampilan mahasiswa.
+3. Mendorong pemanfaatan teknologi untuk menyelesaikan masalah.
